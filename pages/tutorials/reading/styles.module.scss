@@ -1,3 +1,5 @@
+// @import '../../../styles/base.scss';
+
 .app {
   box-sizing: content-box; // this is for a good reason, I promise!
   width: 45vmin;
@@ -31,7 +33,7 @@
   outline: 1px solid;
   background: white;
   backface-visibility: visible;
-  padding: 1rem;
+  padding: var(--p-4);
 
   &[hidden] {
     display: block;

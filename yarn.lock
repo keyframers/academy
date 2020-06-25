@@ -4409,6 +4409,11 @@ prop-types@15.7.2, prop-types@^15.6.2:
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
+propelcss@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/propelcss/-/propelcss-0.0.1.tgz#c996189bdfbb83c527a5df8e501f99448facb12c"
+  integrity sha512-gjpvIuf4ykGs8fGJ7BSVBG3RCePL+CPVog0jkeFa6I4K65eoDm0+gXcibSb85HGWXk1TWKsb+IEgLQE04+i0vw==
+
 prr@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/prr/-/prr-1.0.1.tgz#d3fc114ba06995a45ec6893f484ceb1d78f5f476"

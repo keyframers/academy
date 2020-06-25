@@ -1,3 +1,4 @@
+import 'propelcss/index.css';
 import '../styles/base.scss';
 
 export default function MyApp({ Component, pageProps }) {
